@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-
-#Tableau Analysis link
+Tableau Analysis link:
 
 [Citi Bike Tableau Dashboard](https://public.tableau.com/app/profile/andrea.putnam/viz/NYCCitiBikeAnalysis_16538347257250/NYCCitiBikeAnalysis)
 
