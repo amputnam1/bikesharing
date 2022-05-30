@@ -2,11 +2,19 @@
 
 ## Project Overview
 
-Tableau Analysis link:
+The intention of this project is to analyze Citi Bike Data bike-sharing data from August 2019 in order to help build a solid business proposal for a similar program in Des Moines. One of the key stakeholders interested in this project would like to see a bike trip analysis. 
 
-[Citi Bike Tableau Dashboard](https://public.tableau.com/app/profile/andrea.putnam/viz/NYCCitiBikeAnalysis_16538347257250/NYCCitiBikeAnalysis)
+This analysis used Pandas in order to change the trip duration column from integer to datetime datatype. Once this datatype was converted, a set of visualizations were created in order to:
+- Show the lenhth of time that bikes are checked out for all riders and genders.
+- Show the number of bike trips for all riders and genders for each hour of each day of the week.
+- Show the number of bike trips for each type of user and gender for each day of the week.
+
+
+Tableau Analysis link:[Citi Bike Tableau Dashboard](https://public.tableau.com/app/profile/andrea.putnam/viz/NYCCitiBikeAnalysis_16538347257250/NYCCitiBikeAnalysis)
 
 ## Resources Used 
+- Data sources:[Citi bike](https://ride.citibikenyc.com/system-data), 201908-citibike-tripdata.csv.zip
+- Python 3.9.7, Anaconda, Jupyter Notebook, Tableau Public, Pandas
 
 ## Results
 
